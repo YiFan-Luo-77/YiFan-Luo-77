@@ -1,16 +1,28 @@
 ## Hi there 👋
+## 🐣 Welcome to My Repo
 
-<!--
-**YiFan-Luo-77/YiFan-Luo-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my little coding corner.
+If you see any strange commit messages... those are definitely traces of me battling bugs late at night.
 
-Here are some ideas to get you started:
+## 🧨 What’s Inside
+- Code might be executable
+- Code might not be executable
+- I promise my code worked yesturday
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## ✨ Features
+- I work hard on coding  
+- My code might not run fast, but at least some of them worked
+
+## 🛠 Tech Stack
+- Java / Python / Matlab / C / Perl / C#（Depends on mood）
+- Git（Occasionally forget how to use）
+- VS Code（My Second Home）
+
+## 🎱 Things About Me
+- 🔭 I’m currently doing research on spectral clustering, interested in Data Science and Apply Mathematic.
+- 🌱 I’m currently learning how to get a girl friend
+- 👯 I’m looking to collaborate on any research opportunity math related
+- 📫 How to reach me: yifan.luo@hope.edu (School Email)  OR 723503315@qq.com (Personal Email)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Bruh I don't think anyone would look up my personal repository, if you are reading this line and your are not me, congrats
 -->
