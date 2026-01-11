@@ -25,4 +25,4 @@ If you see any strange commit messages... those are definitely traces of me batt
 - 📫 How to reach me: yifan.luo@hope.edu (School Email)  OR 723503315@qq.com (Personal Email)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Bruh I don't think anyone would look up my personal repository, if you are reading this line and your are not me, congrats
--->
+--> git clone git@github.com:YiFan-Luo-77/YiFan-Luo-77.git
