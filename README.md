@@ -20,7 +20,7 @@ If you see any strange commit messages... those are definitely traces of me batt
 
 ## 🎱 Things About Me
 - 🔭 I’m currently doing research on spectral clustering, interested in Data Science and Apply Mathematic.
-- 🌱 I’m currently learning how to get a girl friend
+- 🌱 I’m currently learning how to get a girlfriend
 - 👯 I’m looking to collaborate on any research opportunity math related
 - 📫 How to reach me: yifan.luo@hope.edu (School Email)  OR 723503315@qq.com (Personal Email)
 - 😄 Pronouns: He/Him
